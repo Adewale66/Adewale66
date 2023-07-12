@@ -1,4 +1,3 @@
-![MasterHead](https://edutour.tel-aviv.gov.il/wp-content/uploads/2021/04/14700_4_site-hinuch_banner5.gif)
 <h1 align="center">Hi 👋, I'm Adewale Kujore</h1>
 <h3 align="center">A software engineer from Nigeria</h3>
 
