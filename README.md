@@ -16,6 +16,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adewale66&show_icons=true&locale=en&layout=compact" alt="adewale66" /></p>
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adewale66&" alt="adewale66" /></p>
