@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adewale Kujore</h1>
-<h3 align="center">Software Engineer | ALX student </h3>
+<h3 align="center">Software Engineer </h3>
 
 - 📫 How to reach me **adewalekujore6@gmail.com**
 
