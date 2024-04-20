@@ -8,7 +8,7 @@
 
 <a href="https://instagram.com/adewale_kujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adewale_kujo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/wale-kujore-a51450260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wale kujore" height="30" width="40" /></a>
-
+<a href="https://www.leetcode.com/wale404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wale404" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
